@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+.head {
+    background-color: rgb(219, 219, 219);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.container {
+    width: 30rem;
+    height: 30rem;
+    border: 1px solid black;
+}
